@@ -15,7 +15,7 @@ Description of my code:
 
 
 import socket, threading 
-# import a couple of libraries in the same time 
+**import a couple of libraries in the same time **
 
 request_queue_size = 5 # max 5 users
 # size of queue, i chose 5 
