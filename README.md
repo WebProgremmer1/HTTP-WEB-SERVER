@@ -95,3 +95,6 @@ Without threads, each connection would block the loop — your server could only
 
 if __name__ == '__main__':
 if the file is main and not imported, runs code below
+
+https://ruslanspivak.com/lsbaws-part2/
+https://ruslanspivak.com/lsbaws-part3/
